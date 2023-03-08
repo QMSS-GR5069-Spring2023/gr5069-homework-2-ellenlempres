@@ -150,6 +150,10 @@ cython_debug/
 # User-specific files
 .Ruserdata
 
+
+# all data folders
+data/
+
 # Example code in package build process
 *-Ex.R
 
